@@ -7,7 +7,7 @@ Usage,
 
 1, update your database connection info
 
-2, upload the file to php-mssql enabled folder
+2, upload files to php-mssql enabled folder
 
 3, examples:
 
