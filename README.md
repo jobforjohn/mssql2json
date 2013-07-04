@@ -6,7 +6,9 @@ Provide json web service to Microsoft SQL Server
 Usage,
 
 1, update your database connection info
+
 2, upload the file to php-mssql enabled folder
+
 3, examples:
 
 To get all data from table1
