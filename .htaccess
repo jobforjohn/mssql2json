@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ mssql2json.php
